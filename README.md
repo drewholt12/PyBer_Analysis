@@ -18,11 +18,13 @@ PyBer, a ride sharing application company, has requested an analysis of ride sha
 # Results
 The distribution of the number of drivers and the number of rides is consistent with the expected populations of each city type.  Urban areas have higher populations than rural areas and have higher rates of drivers and rides.  The average fare per ride, however, is highest in rural areas and lowest in urban areas.  The average fare per driver has similar results where rural fares per driver were much higher, over 3.5 times higher, than urban areas.  Suburban areas were in between urban and rural areas in all categories.  A summary was created from the source data illustrating these results.
 
-![Summary_data](https://user-images.githubusercontent.com/79231355/114285569-d8fb2980-9a1d-11eb-812f-b4a0922ceb56.png)
+![Summary_data png](https://user-images.githubusercontent.com/79231355/114285746-317ef680-9a1f-11eb-9b6e-7499b1389d62.png)
+
 
 Fares by city type line plot illustrates the total weekly fares for each week between January and April.  The plot clearly identifies the variance between the city types during this time period.  The chart does not show the number of available drivers. As expected based on typical population distributions, urban areas have much higher total weekly fares than suburban or rural areas. 
 
-![Fig1](https://user-images.githubusercontent.com/79231355/114285561-cbde3a80-9a1d-11eb-9c8a-b718fdb0d390.png)
+![PyBer_fare_summary png](https://user-images.githubusercontent.com/79231355/114285749-33e15080-9a1f-11eb-8742-15eceb65d026.png)
+
     
     
 # Summary
